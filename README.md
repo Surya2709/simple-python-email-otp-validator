@@ -4,7 +4,7 @@ The program sends OTP to the receivers email and verify the OTP.
 
 Enter your email and password inside the main.py file.
 
-TO run :
+To run :
  
  
         python main.py
